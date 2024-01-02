@@ -1,0 +1,20 @@
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
+
+.btn_container {
+  margin-bottom: 1em;
+
+  .btn-success {
+    margin-right: 1em;
+  }
+}
+
+.desc {
+  margin-top: 0.5em;
+}
+
+.add_ingredient_btn {
+  margin: 1em 0 2em 1em;
+}
